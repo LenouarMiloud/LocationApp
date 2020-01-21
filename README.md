@@ -10,5 +10,3 @@ which in turn shows you on the screen in the Map
 Google Maps is a free online map and plan service.
 
 This service has the particularity that it allows, from the scale of a country, to be able to zoom up to the scale of a street
-
-تطبيق بسيط حول إستعمال الخرائط 
